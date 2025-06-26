@@ -141,7 +141,7 @@ print(f"""
 
 
 # Modify the code to print your age
-print(f"I am {} years old.")
+print(f"I am {15} years old.")
 
 
 # In[ ]:
@@ -155,7 +155,7 @@ print(f"There are {365/7 weeks in a year")
 
 
 # Complete the code
-print(f"The area of a square with side 5 cm is {} cm squared.")
+print(f"The area of a square with side 5 cm is {25} cm squared.")
 
 
 # In[ ]:
